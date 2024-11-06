@@ -5,7 +5,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Permanent Marker', cursive;
+    font-family: "Roboto Condensed", sans-serif;
     color: #f4f4f4;
     margin-top: 0;
     margin-bottom: 0.5em;
@@ -13,7 +13,8 @@ h6 {
 
 /* Base Styles for Paragraphs */
 p {
-    font-family: 'Patrick Hand', cursive;
+    /* font-family: 'Patrick Hand', cursive;*/
+    font-family: "Creepster", system-ui;
     color: #f4f4f4;
     font-size: 1rem;
     line-height: 1.6;
@@ -45,7 +46,7 @@ p {
 
 /* Page Background */
 body {
-    background-color: #2d2d2d;
+    background-color: lightgray;
     color: #f4f4f4;
     font-family: 'Patrick Hand', cursive;
     margin: 0;
